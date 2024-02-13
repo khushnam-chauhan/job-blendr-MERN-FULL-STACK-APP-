@@ -20,7 +20,7 @@ const Landingpage = ()=> {
         <section className='hero'>
             <div className='hero-left'>
                 <h1>Welcome to </h1> <span className='jobmaze-anima'>JOB-BLENDR</span>
-                <p>a comprehensive platform for freshers in the industry </p>
+                <p>a comprehensive platform for CSE freshers in the industry </p>
                 <p>find job opportunities, enhance your skills, connect with professionals, self-assessment.</p>
             </div>
             <div className="hero-right">
